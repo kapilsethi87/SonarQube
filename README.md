@@ -1,5 +1,3 @@
-# SonarQube
-
 # SONARQUBE WITH POSTGRES DATABASE STEPS BY STEPS
 
 ## `##++  Install & Setup Postgres Database for SonarQube  ++##`
